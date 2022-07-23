@@ -1,3 +1,4 @@
+FOR NON COMMERCIAL USE
 # vue-weather
 
 ## Project setup
